@@ -17,4 +17,4 @@ De recentste Google-reviews zijn gemengd (klachten over "niet luisteren"). Op de
 - [ ] Toestemming voor de foto's (Google Maps). De foto met een jongere klant heb ik bewust weggelaten
 
 ## Design
-Licht boutique-hotel: warm wit, leisteengrijs (zoals hun muur) en dunne champagne-lijnen. Italiana + Outfit, een gesplitste hero met verticaal "GOLD" en een horizontaal scrollende galerij.
+Premium donker (zelfde stijl als MG Barbershop): bijna-zwarte achtergrond, Bodoni Moda + Manrope, een eigen accentkleur en een monogram-logo (`img/logo-*.svg`). Diensten, prijzen en uren staan bovenaan `script.js`.
